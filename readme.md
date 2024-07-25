@@ -5,8 +5,7 @@
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Yousif-Abuzeid&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yousif-Abuzeid&theme=omni" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yousif-Abuzeid&theme=radical" alt="GitHub Streak" /></a>
 
 <a href=#><img src="contributions.svg"></a>
 
